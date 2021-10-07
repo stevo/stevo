@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Stevo, Backend engineer](https://assets.selleo.com/banners/bkosmowski.svg)](https://selleo.com/)
+
 <!--
 **stevo/stevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
